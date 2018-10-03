@@ -1,0 +1,9 @@
+/home/ruizhi/opencv_ws/CMakeFiles/Basic_thresholding_op.dir
+/home/ruizhi/opencv_ws/CMakeFiles/Image-Pyramids.dir
+/home/ruizhi/opencv_ws/CMakeFiles/edit_cache.dir
+/home/ruizhi/opencv_ws/CMakeFiles/Morphology_tf.dir
+/home/ruizhi/opencv_ws/CMakeFiles/DisplayImage.dir
+/home/ruizhi/opencv_ws/CMakeFiles/rebuild_cache.dir
+/home/ruizhi/opencv_ws/CMakeFiles/image.dir
+/home/ruizhi/opencv_ws/CMakeFiles/Grayimage.dir
+/home/ruizhi/opencv_ws/CMakeFiles/ErodingandDilating.dir
